@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1514144182 source:c:\projet c\base\main.c
+
+1291757168 source:c:\projet c\base\sqlite3.c
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<tcl.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<windows.h>
+	<os2safe.h>
+	<os2.h>
+	<uconv.h>
+	<ctype.h>
+	<time.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<dlfcn.h>
+	<winbase.h>
+	<sys/cygwin.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1525596843 source:c:\projet c\base\base.cpp
+	"base.h"
+	<iostream>
+	<stdio.h>
+	<sstream>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+
+1525623541 c:\projet c\base\base.h
+	<string>
+	"sqlite3.h"
+
+1291757168 c:\projet c\base\sqlite3.h
+	<stdarg.h>
+
