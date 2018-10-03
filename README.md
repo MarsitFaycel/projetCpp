@@ -1,2 +1,3 @@
 # projetCpp
-projet c++ crud avec SqLite(base de donnée)
+projet CRUD avec C++ , SqLite(base de donnée) et wxWidget (interface graphique)
+
