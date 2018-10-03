@@ -1,0 +1,6361 @@
+Sun May 20 07:28:26 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:28:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:28:32 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:32 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:32 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:32 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:32 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:32 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:32 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:33 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:33 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:33 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:33 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:33 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:33 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:33 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:28:59 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:29:11 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:29:11 2018
+
+----------------
+1 paolo paolo 1200 0 
+Sun May 20 07:29:16 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:29:28 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:29:28 2018
+
+----------------
+1 salade 1.2 1 
+Sun May 20 07:29:48 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:29:48 2018
+
+----------------
+1 pate 7.5 7 
+Sun May 20 07:30:04 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:30:04 2018
+
+----------------
+1 gateau 1.5 0.9 
+Sun May 20 07:30:19 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:30:24 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:30:24 2018
+
+----------------
+paolo 
+Sun May 20 07:30:25 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:30:26 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:30:26 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:30:27 2018
+
+----------------
+salade 
+Sun May 20 07:30:27 2018
+
+----------------
+
+Sun May 20 07:30:27 2018
+
+----------------
+
+Sun May 20 07:30:27 2018
+
+----------------
+
+Sun May 20 07:30:30 2018
+
+----------------
+pate 
+Sun May 20 07:30:30 2018
+
+----------------
+
+Sun May 20 07:30:30 2018
+
+----------------
+
+Sun May 20 07:30:30 2018
+
+----------------
+
+Sun May 20 07:30:30 2018
+
+----------------
+
+Sun May 20 07:30:32 2018
+
+----------------
+gateau 
+Sun May 20 07:30:32 2018
+
+----------------
+
+Sun May 20 07:30:32 2018
+
+----------------
+
+Sun May 20 07:30:32 2018
+
+----------------
+
+Sun May 20 07:30:32 2018
+
+----------------
+
+Sun May 20 07:30:33 2018
+
+----------------
+1 
+Sun May 20 07:30:40 2018
+
+----------------
+salade 1.2 
+Sun May 20 07:30:40 2018
+
+----------------
+1.2 
+Sun May 20 07:30:40 2018
+
+----------------
+base ouvert 
+SQL error: no such table: TCOMANDEENTREE
+Sun May 20 07:30:43 2018
+
+----------------
+pate 7.5 
+Sun May 20 07:30:43 2018
+
+----------------
+7.5 
+Sun May 20 07:30:43 2018
+
+----------------
+base ouvert 
+SQL error: no such table: TCOMANDEPLATS
+Sun May 20 07:30:44 2018
+
+----------------
+gateau 1.5 
+Sun May 20 07:30:44 2018
+
+----------------
+1.5 
+Sun May 20 07:30:44 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:30:47 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:31:06 2018
+
+----------------
+salade 1.2 
+Sun May 20 07:31:06 2018
+
+----------------
+1.2 
+Sun May 20 07:31:06 2018
+
+----------------
+base ouvert 
+SQL error: no such table: TCOMANDEENTREE
+Sun May 20 07:31:09 2018
+
+----------------
+pate 7.5 
+Sun May 20 07:31:09 2018
+
+----------------
+7.5 
+Sun May 20 07:31:09 2018
+
+----------------
+base ouvert 
+SQL error: no such table: TCOMANDEPLATS
+Sun May 20 07:31:11 2018
+
+----------------
+gateau 1.5 
+Sun May 20 07:31:11 2018
+
+----------------
+1.5 
+Sun May 20 07:31:11 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:31:18 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 07:50:19 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:50:23 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:50:23 2018
+
+----------------
+yafet 
+Sun May 20 07:50:25 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 07:50:26 2018
+
+----------------
+Sun May 20 07:50:28 2018
+
+----------------
+
+Sun May 20 07:50:29 2018
+
+----------------
+
+Sun May 20 08:10:24 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:10:28 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:10:28 2018
+
+----------------
+yafet 
+Sun May 20 08:10:32 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:10:33 2018
+
+----------------
+Sun May 20 08:10:33 2018
+
+----------------
+Sun May 20 08:11:01 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:11:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:11:08 2018
+
+----------------
+paolo 
+Sun May 20 08:11:09 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:11:09 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:11:09 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:11:15 2018
+
+----------------
+1 
+Sun May 20 08:11:22 2018
+
+----------------
+salade 
+Sun May 20 08:11:22 2018
+
+----------------
+
+Sun May 20 08:11:22 2018
+
+----------------
+
+Sun May 20 08:11:22 2018
+
+----------------
+
+Sun May 20 08:11:24 2018
+
+----------------
+pate 
+Sun May 20 08:11:24 2018
+
+----------------
+
+Sun May 20 08:11:24 2018
+
+----------------
+
+Sun May 20 08:11:24 2018
+
+----------------
+
+Sun May 20 08:11:24 2018
+
+----------------
+
+Sun May 20 08:11:26 2018
+
+----------------
+pate 7.5 
+Sun May 20 08:11:26 2018
+
+----------------
+7.5 
+Sun May 20 08:11:26 2018
+
+----------------
+base ouvert 
+SQL error: no such table: TCOMANDEPLATS
+Sun May 20 08:11:27 2018
+
+----------------
+base ouvert 
+SQL error: table TADDITION has no column named ADDITION
+Sun May 20 08:11:33 2018
+
+----------------
+pate 7.5 
+Sun May 20 08:11:33 2018
+
+----------------
+7.5 
+Sun May 20 08:11:33 2018
+
+----------------
+base ouvert 
+SQL error: no such table: TCOMANDEPLATS
+Sun May 20 08:11:35 2018
+
+----------------
+base ouvert 
+SQL error: table TADDITION has no column named ADDITION
+Sun May 20 08:11:36 2018
+
+----------------
+pate 7.5 
+Sun May 20 08:11:36 2018
+
+----------------
+7.5 
+Sun May 20 08:11:36 2018
+
+----------------
+base ouvert 
+SQL error: no such table: TCOMANDEPLATS
+Sun May 20 08:11:37 2018
+
+----------------
+base ouvert 
+SQL error: table TADDITION has no column named ADDITION
+Sun May 20 08:11:43 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:11:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:11:47 2018
+
+----------------
+yafet 
+Sun May 20 08:11:48 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:11:49 2018
+
+----------------
+Sun May 20 08:11:50 2018
+
+----------------
+Sun May 20 08:11:52 2018
+
+----------------
+Sun May 20 08:12:35 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:12:38 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:12:38 2018
+
+----------------
+yafet 
+Sun May 20 08:12:43 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:12:43 2018
+
+----------------
+0 1 1 10.2 20/05/18 1 1 1 10.2 20/05/18 
+Sun May 20 08:13:23 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:13:26 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:13:26 2018
+
+----------------
+yafet 
+Sun May 20 08:13:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:13:32 2018
+
+----------------
+
+Sun May 20 08:13:33 2018
+
+----------------
+
+Sun May 20 08:13:34 2018
+
+----------------
+
+Sun May 20 08:17:22 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:17:29 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:17:29 2018
+
+----------------
+paolo 
+Sun May 20 08:17:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:17:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:17:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:17:35 2018
+
+----------------
+pate 7.5 
+Sun May 20 08:17:35 2018
+
+----------------
+7.5 
+Sun May 20 08:17:35 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:17:37 2018
+
+----------------
+1 
+Sun May 20 08:17:40 2018
+
+----------------
+pate 7.5 
+Sun May 20 08:17:40 2018
+
+----------------
+7.5 
+Sun May 20 08:17:40 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 08:17:41 2018
+
+----------------
+base ouvert 
+SQL error: table TADDITION has no column named ADDITION
+Sun May 20 08:17:43 2018
+
+----------------
+pate 7.5 
+Sun May 20 08:17:43 2018
+
+----------------
+7.5 
+Sun May 20 08:17:43 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:17:45 2018
+
+----------------
+base ouvert 
+SQL error: table TADDITION has no column named ADDITION
+Sun May 20 08:17:46 2018
+
+----------------
+pate 7.5 
+Sun May 20 08:17:46 2018
+
+----------------
+7.5 
+Sun May 20 08:17:46 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:17:47 2018
+
+----------------
+base ouvert 
+SQL error: table TADDITION has no column named ADDITION
+Sun May 20 08:17:56 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:17:59 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:17:59 2018
+
+----------------
+yafet 
+Sun May 20 08:18:03 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:18:05 2018
+
+----------------
+Sun May 20 08:18:06 2018
+
+----------------
+0 1 1 1 2 1 
+Sun May 20 08:18:13 2018
+
+----------------
+0 1 1 1 2 1 
+Sun May 20 08:19:07 2018
+
+----------------
+Sun May 20 08:21:16 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:21:20 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:21:20 2018
+
+----------------
+yafet 
+Sun May 20 08:21:24 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:21:25 2018
+
+----------------
+pate 
+Sun May 20 08:21:26 2018
+
+----------------
+pate 
+Sun May 20 08:21:26 2018
+
+----------------
+pate 
+Sun May 20 08:21:26 2018
+
+----------------
+pate 
+Sun May 20 08:21:27 2018
+
+----------------
+0 1 1 1 2 1 
+Sun May 20 08:22:06 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:22:10 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:22:10 2018
+
+----------------
+yafet 
+Sun May 20 08:22:12 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:22:13 2018
+
+----------------
+1 
+Sun May 20 08:22:14 2018
+
+----------------
+1 
+Sun May 20 08:22:15 2018
+
+----------------
+1 
+Sun May 20 08:22:16 2018
+
+----------------
+1 
+Sun May 20 08:22:16 2018
+
+----------------
+1 
+Sun May 20 08:22:18 2018
+
+----------------
+1 
+Sun May 20 08:22:18 2018
+
+----------------
+1 
+Sun May 20 08:22:19 2018
+
+----------------
+0 1 1 1 2 1 
+Sun May 20 08:23:49 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:23:52 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:23:52 2018
+
+----------------
+yafet 
+Sun May 20 08:23:56 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:23:57 2018
+
+----------------
+1 1 1 
+Sun May 20 08:23:58 2018
+
+----------------
+1 1 1 
+Sun May 20 08:23:58 2018
+
+----------------
+1 1 1 
+Sun May 20 08:23:58 2018
+
+----------------
+1 1 1 
+Sun May 20 08:23:58 2018
+
+----------------
+1 1 1 
+Sun May 20 08:24:01 2018
+
+----------------
+0 1 1 1 2 1 
+Sun May 20 08:24:58 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:25:01 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:25:01 2018
+
+----------------
+yafet 
+Sun May 20 08:25:05 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:25:06 2018
+
+----------------
+1 1 1 
+Sun May 20 08:25:07 2018
+
+----------------
+1 1 1 
+Sun May 20 08:25:07 2018
+
+----------------
+1 1 1 
+Sun May 20 08:25:07 2018
+
+----------------
+1 1 1 
+Sun May 20 08:25:07 2018
+
+----------------
+1 1 1 
+Sun May 20 08:25:07 2018
+
+----------------
+1 1 1 
+Sun May 20 08:25:08 2018
+
+----------------
+0 1 1 1 2 1 
+Sun May 20 08:26:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:26:24 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:26:24 2018
+
+----------------
+yafet 
+Sun May 20 08:26:29 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:26:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:31 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:31 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:31 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:31 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:31 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:31 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:31 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:31 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:33 2018
+
+----------------
+
+Sun May 20 08:26:35 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:26:49 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:26:49 2018
+
+----------------
+1 paolo paolo 1200 0 
+Sun May 20 08:26:53 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:27:04 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:27:05 2018
+
+----------------
+1 salade 12 10 
+Sun May 20 08:27:19 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:27:19 2018
+
+----------------
+1 pate 12 10 
+Sun May 20 08:27:34 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:27:34 2018
+
+----------------
+2 couscous 30 12 
+Sun May 20 08:27:41 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:27:46 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:27:46 2018
+
+----------------
+paolo 
+Sun May 20 08:27:47 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:27:47 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:27:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:27:49 2018
+
+----------------
+pate 
+Sun May 20 08:27:49 2018
+
+----------------
+couscous 
+Sun May 20 08:27:49 2018
+
+----------------
+
+Sun May 20 08:27:49 2018
+
+----------------
+
+Sun May 20 08:27:49 2018
+
+----------------
+
+Sun May 20 08:27:51 2018
+
+----------------
+1 
+Sun May 20 08:27:57 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:28:00 2018
+
+----------------
+pate 12 
+Sun May 20 08:28:00 2018
+
+----------------
+12 
+Sun May 20 08:28:00 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:28:03 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:28:05 2018
+
+----------------
+couscous 30 
+Sun May 20 08:28:05 2018
+
+----------------
+30 
+Sun May 20 08:28:05 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:28:06 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:28:07 2018
+
+----------------
+pate 12 
+Sun May 20 08:28:07 2018
+
+----------------
+12 
+Sun May 20 08:28:07 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:28:09 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:28:10 2018
+
+----------------
+pate 12 
+Sun May 20 08:28:10 2018
+
+----------------
+12 
+Sun May 20 08:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:28:11 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:28:17 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:28:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:28:21 2018
+
+----------------
+yafet 
+Sun May 20 08:28:24 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:28:25 2018
+
+----------------
+1 1 2 2 3 1 4 1 
+Sun May 20 08:28:33 2018
+
+----------------
+1 2 1 1 
+Sun May 20 08:28:34 2018
+
+----------------
+1 2 1 1 
+Sun May 20 08:31:22 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:31:26 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:31:26 2018
+
+----------------
+yafet 
+Sun May 20 08:31:27 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:31:28 2018
+
+----------------
+Sun May 20 08:32:20 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:32:23 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:32:23 2018
+
+----------------
+yafet 
+Sun May 20 08:32:25 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:32:26 2018
+
+----------------
+couscous 
+Sun May 20 08:32:37 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:32:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:32:47 2018
+
+----------------
+paolo 
+Sun May 20 08:32:48 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:32:48 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:32:48 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:32:56 2018
+
+----------------
+pate 
+Sun May 20 08:32:56 2018
+
+----------------
+couscous 
+Sun May 20 08:32:56 2018
+
+----------------
+
+Sun May 20 08:32:56 2018
+
+----------------
+
+Sun May 20 08:32:56 2018
+
+----------------
+
+Sun May 20 08:32:58 2018
+
+----------------
+pate 12 
+Sun May 20 08:32:58 2018
+
+----------------
+12 
+Sun May 20 08:32:58 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:33:00 2018
+
+----------------
+1 
+Sun May 20 08:33:01 2018
+
+----------------
+pate 12 
+Sun May 20 08:33:01 2018
+
+----------------
+12 
+Sun May 20 08:33:01 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 08:33:04 2018
+
+----------------
+pate 12 
+Sun May 20 08:33:04 2018
+
+----------------
+12 
+Sun May 20 08:33:04 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 08:33:04 2018
+
+----------------
+pate 12 
+Sun May 20 08:33:04 2018
+
+----------------
+12 
+Sun May 20 08:33:04 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 08:33:05 2018
+
+----------------
+pate 12 
+Sun May 20 08:33:05 2018
+
+----------------
+12 
+Sun May 20 08:33:05 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 08:33:06 2018
+
+----------------
+couscous 30 
+Sun May 20 08:33:06 2018
+
+----------------
+30 
+Sun May 20 08:33:06 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 08:33:11 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 08:33:12 2018
+
+----------------
+pate 12 
+Sun May 20 08:33:12 2018
+
+----------------
+12 
+Sun May 20 08:33:12 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 08:33:12 2018
+
+----------------
+pate 12 
+Sun May 20 08:33:12 2018
+
+----------------
+12 
+Sun May 20 08:33:12 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 08:33:12 2018
+
+----------------
+pate 12 
+Sun May 20 08:33:12 2018
+
+----------------
+12 
+Sun May 20 08:33:12 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 08:33:15 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 08:33:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:33:24 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:33:24 2018
+
+----------------
+yafet 
+Sun May 20 08:33:28 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:33:30 2018
+
+----------------
+couscous 
+Sun May 20 08:33:31 2018
+
+----------------
+couscous 
+Sun May 20 08:33:33 2018
+
+----------------
+1 1 2 2 3 1 4 1 0 1 0 2 
+Sun May 20 08:35:22 2018
+
+----------------
+1 1 2 2 3 1 4 1 0 1 0 2 
+Sun May 20 08:36:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:36:34 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:36:34 2018
+
+----------------
+yafet 
+Sun May 20 08:36:38 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:36:39 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 08:36:59 2018
+
+----------------
+couscous 
+Sun May 20 08:37:00 2018
+
+----------------
+couscous 
+Sun May 20 08:37:00 2018
+
+----------------
+couscous 
+Sun May 20 08:37:00 2018
+
+----------------
+couscous 
+Sun May 20 08:37:02 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 08:37:03 2018
+
+----------------
+couscous 
+Sun May 20 08:37:10 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:37:14 2018
+
+----------------
+pate couscous 
+Sun May 20 08:37:26 2018
+
+----------------
+
+Sun May 20 08:37:27 2018
+
+----------------
+
+Sun May 20 08:37:27 2018
+
+----------------
+
+Sun May 20 08:37:28 2018
+
+----------------
+
+Sun May 20 08:37:32 2018
+
+----------------
+
+Sun May 20 08:37:34 2018
+
+----------------
+
+Sun May 20 08:40:36 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:40:39 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:40:39 2018
+
+----------------
+yafet 
+Sun May 20 08:40:42 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:40:48 2018
+
+----------------
+2 couscous 30 12 
+Sun May 20 08:40:55 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:40:56 2018
+
+----------------
+couscous 
+Sun May 20 08:40:57 2018
+
+----------------
+couscous 
+Sun May 20 08:40:57 2018
+
+----------------
+couscous 
+Sun May 20 08:40:58 2018
+
+----------------
+couscous 
+Sun May 20 08:40:58 2018
+
+----------------
+couscous 
+Sun May 20 08:40:59 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 08:41:59 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:42:03 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:42:03 2018
+
+----------------
+yafet 
+Sun May 20 08:42:05 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:42:06 2018
+
+----------------
+Sun May 20 08:42:07 2018
+
+----------------
+Sun May 20 08:44:54 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:44:57 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:44:57 2018
+
+----------------
+yafet 
+Sun May 20 08:44:59 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:45:00 2018
+
+----------------
+Sun May 20 08:45:02 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 08:45:57 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:46:01 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:46:01 2018
+
+----------------
+yafet 
+Sun May 20 08:46:05 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:46:06 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 08:46:09 2018
+
+----------------
+Sun May 20 08:46:59 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:47:03 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:47:03 2018
+
+----------------
+yafet 
+Sun May 20 08:47:07 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:47:08 2018
+
+----------------
+6 
+Sun May 20 08:47:19 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 08:49:17 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:49:20 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:49:20 2018
+
+----------------
+yafet 
+Sun May 20 08:49:24 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 08:49:25 2018
+
+----------------
+2 
+Sun May 20 08:49:27 2018
+
+----------------
+2 
+Sun May 20 08:49:28 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 08:49:29 2018
+
+----------------
+2 
+Sun May 20 09:08:01 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:08:04 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:08:04 2018
+
+----------------
+yafet 
+Sun May 20 09:08:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:08:09 2018
+
+----------------
+Sun May 20 09:11:05 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:11:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:11:08 2018
+
+----------------
+yafet 
+Sun May 20 09:11:11 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:11:13 2018
+
+----------------
+Sun May 20 09:11:14 2018
+
+----------------
+Sun May 20 09:11:14 2018
+
+----------------
+Sun May 20 09:11:14 2018
+
+----------------
+Sun May 20 09:11:14 2018
+
+----------------
+Sun May 20 09:11:15 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:14:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:14:24 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:14:24 2018
+
+----------------
+yafet 
+Sun May 20 09:14:29 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:14:30 2018
+
+----------------
+Sun May 20 09:14:31 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:14:33 2018
+
+----------------
+Sun May 20 09:14:57 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:16:13 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:16:17 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:16:17 2018
+
+----------------
+yafet 
+Sun May 20 09:16:19 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:16:19 2018
+
+----------------
+Sun May 20 09:16:20 2018
+
+----------------
+Sun May 20 09:16:21 2018
+
+----------------
+Sun May 20 09:16:21 2018
+
+----------------
+Sun May 20 09:16:53 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:16:56 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:16:56 2018
+
+----------------
+yafet 
+Sun May 20 09:17:01 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:17:02 2018
+
+----------------
+Sun May 20 09:17:03 2018
+
+----------------
+Sun May 20 09:17:03 2018
+
+----------------
+Sun May 20 09:17:05 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:20:42 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:20:45 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:20:45 2018
+
+----------------
+yafet 
+Sun May 20 09:20:48 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:20:50 2018
+
+----------------
+pate 1 couscous 2 pate 3 pate 4 pate 0 couscous 0 
+Sun May 20 09:25:44 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:25:48 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:25:48 2018
+
+----------------
+yafet 
+Sun May 20 09:25:49 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:25:50 2018
+
+----------------
+Sun May 20 09:26:28 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:26:31 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:26:31 2018
+
+----------------
+yafet 
+Sun May 20 09:26:32 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:26:33 2018
+
+----------------
+Sun May 20 09:32:56 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:32:59 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:32:59 2018
+
+----------------
+yafet 
+Sun May 20 09:33:03 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:33:04 2018
+
+----------------
+couscous 
+Sun May 20 09:33:20 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:33:27 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:33:27 2018
+
+----------------
+paolo 
+Sun May 20 09:33:28 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:33:28 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:33:28 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:33:32 2018
+
+----------------
+1 
+Sun May 20 09:33:36 2018
+
+----------------
+pate 12 
+Sun May 20 09:33:36 2018
+
+----------------
+12 
+Sun May 20 09:33:36 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:33:44 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:33:45 2018
+
+----------------
+pate 12 
+Sun May 20 09:33:45 2018
+
+----------------
+12 
+Sun May 20 09:33:45 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:33:50 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:33:51 2018
+
+----------------
+couscous 30 
+Sun May 20 09:33:51 2018
+
+----------------
+30 
+Sun May 20 09:33:51 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:33:52 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:33:54 2018
+
+----------------
+pate 12 
+Sun May 20 09:33:54 2018
+
+----------------
+12 
+Sun May 20 09:33:54 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:33:55 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:33:59 2018
+
+----------------
+pate 12 
+Sun May 20 09:33:59 2018
+
+----------------
+12 
+Sun May 20 09:33:59 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:34:00 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:34:05 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:34:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:34:08 2018
+
+----------------
+yafet 
+Sun May 20 09:34:10 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:34:11 2018
+
+----------------
+couscous 
+Sun May 20 09:34:11 2018
+
+----------------
+couscous 
+Sun May 20 09:34:12 2018
+
+----------------
+couscous 
+Sun May 20 09:34:12 2018
+
+----------------
+couscous 
+Sun May 20 09:34:13 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:15 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:15 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:15 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:16 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:16 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:16 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:16 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:17 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:17 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:17 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:34:18 2018
+
+----------------
+1 2 1 1 1 2 
+Sun May 20 09:37:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:37:25 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:37:25 2018
+
+----------------
+yafet 
+Sun May 20 09:37:26 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:37:28 2018
+
+----------------
+66 
+Sun May 20 09:37:29 2018
+
+----------------
+couscous 
+Sun May 20 09:42:28 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:42:34 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:42:34 2018
+
+----------------
+paolo 
+Sun May 20 09:42:34 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:42:34 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:42:34 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:42:40 2018
+
+----------------
+pate 
+Sun May 20 09:42:40 2018
+
+----------------
+couscous 
+Sun May 20 09:42:40 2018
+
+----------------
+
+Sun May 20 09:42:40 2018
+
+----------------
+
+Sun May 20 09:42:40 2018
+
+----------------
+
+Sun May 20 09:42:41 2018
+
+----------------
+couscous 30 
+Sun May 20 09:42:41 2018
+
+----------------
+30 
+Sun May 20 09:42:41 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:42:41 2018
+
+----------------
+couscous 30 
+Sun May 20 09:42:41 2018
+
+----------------
+30 
+Sun May 20 09:42:41 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:42:44 2018
+
+----------------
+1 
+Sun May 20 09:42:46 2018
+
+----------------
+couscous 30 
+Sun May 20 09:42:46 2018
+
+----------------
+30 
+Sun May 20 09:42:46 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:42:47 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:42:48 2018
+
+----------------
+pate 12 
+Sun May 20 09:42:48 2018
+
+----------------
+12 
+Sun May 20 09:42:48 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:42:49 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:42:51 2018
+
+----------------
+pate 12 
+Sun May 20 09:42:51 2018
+
+----------------
+12 
+Sun May 20 09:42:51 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:42:52 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:42:53 2018
+
+----------------
+pate 12 
+Sun May 20 09:42:53 2018
+
+----------------
+12 
+Sun May 20 09:42:53 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:42:54 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:42:55 2018
+
+----------------
+pate 12 
+Sun May 20 09:42:55 2018
+
+----------------
+12 
+Sun May 20 09:42:55 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:42:56 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:43:00 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:43:03 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:43:03 2018
+
+----------------
+yafet 
+Sun May 20 09:43:05 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:43:08 2018
+
+----------------
+couscous 
+Sun May 20 09:43:09 2018
+
+----------------
+couscous 
+Sun May 20 09:43:09 2018
+
+----------------
+couscous 
+Sun May 20 09:43:10 2018
+
+----------------
+
+Sun May 20 09:43:11 2018
+
+----------------
+
+Sun May 20 09:43:11 2018
+
+----------------
+couscous 
+Sun May 20 09:43:12 2018
+
+----------------
+couscous 
+Sun May 20 09:43:12 2018
+
+----------------
+couscous 
+Sun May 20 09:43:13 2018
+
+----------------
+couscous 
+Sun May 20 09:43:13 2018
+
+----------------
+couscous 
+Sun May 20 09:45:07 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:45:10 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:45:10 2018
+
+----------------
+yafet 
+Sun May 20 09:45:14 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:45:15 2018
+
+----------------
+
+Sun May 20 09:45:16 2018
+
+----------------
+
+Sun May 20 09:45:16 2018
+
+----------------
+
+Sun May 20 09:45:16 2018
+
+----------------
+
+Sun May 20 09:45:17 2018
+
+----------------
+couscous 
+Sun May 20 09:46:37 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:46:41 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:46:41 2018
+
+----------------
+yafet 
+Sun May 20 09:46:45 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:46:46 2018
+
+----------------
+Sun May 20 09:46:47 2018
+
+----------------
+Sun May 20 09:46:48 2018
+
+----------------
+Sun May 20 09:47:32 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:47:36 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:47:36 2018
+
+----------------
+yafet 
+Sun May 20 09:47:41 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:47:42 2018
+
+----------------
+
+Sun May 20 09:47:42 2018
+
+----------------
+
+Sun May 20 09:47:43 2018
+
+----------------
+Sun May 20 09:47:45 2018
+
+----------------
+Sun May 20 09:47:45 2018
+
+----------------
+Sun May 20 09:47:45 2018
+
+----------------
+Sun May 20 09:47:46 2018
+
+----------------
+66 
+Sun May 20 09:51:51 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:51:55 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:51:55 2018
+
+----------------
+yafet 
+Sun May 20 09:51:58 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:52:00 2018
+
+----------------
+Sun May 20 09:52:01 2018
+
+----------------
+Sun May 20 09:52:01 2018
+
+----------------
+Sun May 20 09:52:27 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:52:31 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:52:31 2018
+
+----------------
+yafet 
+Sun May 20 09:52:36 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:52:37 2018
+
+----------------
+1 1 2 2 3 1 4 1 0 1 0 2 2 1 
+Sun May 20 09:52:39 2018
+
+----------------
+
+Sun May 20 09:52:40 2018
+
+----------------
+
+Sun May 20 09:52:41 2018
+
+----------------
+1 1 2 2 3 1 4 1 0 1 0 2 2 1 
+Sun May 20 09:52:43 2018
+
+----------------
+
+Sun May 20 09:52:44 2018
+
+----------------
+1 1 2 2 3 1 4 1 0 1 0 2 2 1 
+Sun May 20 09:52:45 2018
+
+----------------
+1 1 2 2 3 1 4 1 0 1 0 2 2 1 
+Sun May 20 09:56:17 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:56:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:56:21 2018
+
+----------------
+yafet 
+Sun May 20 09:56:25 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:56:27 2018
+
+----------------
+salade 
+Sun May 20 09:56:48 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:56:49 2018
+
+----------------
+2 salade2 10 1 
+Sun May 20 09:57:00 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:57:00 2018
+
+----------------
+1 bbb 5 1 
+Sun May 20 09:57:09 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:57:09 2018
+
+----------------
+2 op 78 45 
+Sun May 20 09:57:20 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:57:28 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:57:28 2018
+
+----------------
+paolo 
+Sun May 20 09:57:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:57:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:57:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:57:33 2018
+
+----------------
+1 
+Sun May 20 09:57:37 2018
+
+----------------
+salade 
+Sun May 20 09:57:37 2018
+
+----------------
+salade2 
+Sun May 20 09:57:37 2018
+
+----------------
+
+Sun May 20 09:57:37 2018
+
+----------------
+
+Sun May 20 09:57:40 2018
+
+----------------
+pate 
+Sun May 20 09:57:40 2018
+
+----------------
+couscous 
+Sun May 20 09:57:40 2018
+
+----------------
+
+Sun May 20 09:57:40 2018
+
+----------------
+
+Sun May 20 09:57:40 2018
+
+----------------
+
+Sun May 20 09:57:41 2018
+
+----------------
+bbb 
+Sun May 20 09:57:41 2018
+
+----------------
+op 
+Sun May 20 09:57:41 2018
+
+----------------
+
+Sun May 20 09:57:41 2018
+
+----------------
+
+Sun May 20 09:57:41 2018
+
+----------------
+
+Sun May 20 09:57:44 2018
+
+----------------
+salade 12 
+Sun May 20 09:57:44 2018
+
+----------------
+12 
+Sun May 20 09:57:44 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:57:47 2018
+
+----------------
+salade2 10 
+Sun May 20 09:57:47 2018
+
+----------------
+10 
+Sun May 20 09:57:47 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:57:47 2018
+
+----------------
+salade2 10 
+Sun May 20 09:57:47 2018
+
+----------------
+10 
+Sun May 20 09:57:47 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:57:50 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:57:52 2018
+
+----------------
+pate 12 
+Sun May 20 09:57:52 2018
+
+----------------
+12 
+Sun May 20 09:57:52 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 09:57:55 2018
+
+----------------
+op 78 
+Sun May 20 09:57:55 2018
+
+----------------
+78 
+Sun May 20 09:57:55 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:57:58 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:58:02 2018
+
+----------------
+bbb 5 
+Sun May 20 09:58:02 2018
+
+----------------
+5 
+Sun May 20 09:58:02 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:04 2018
+
+----------------
+salade2 10 
+Sun May 20 09:58:04 2018
+
+----------------
+10 
+Sun May 20 09:58:04 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:05 2018
+
+----------------
+salade2 10 
+Sun May 20 09:58:05 2018
+
+----------------
+10 
+Sun May 20 09:58:05 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:06 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:58:07 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:58:08 2018
+
+----------------
+salade2 10 
+Sun May 20 09:58:08 2018
+
+----------------
+10 
+Sun May 20 09:58:08 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:09 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 09:58:14 2018
+
+----------------
+couscous 30 
+Sun May 20 09:58:14 2018
+
+----------------
+30 
+Sun May 20 09:58:14 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:18 2018
+
+----------------
+1 
+Sun May 20 09:58:20 2018
+
+----------------
+pate 12 
+Sun May 20 09:58:20 2018
+
+----------------
+12 
+Sun May 20 09:58:20 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:21 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:22 2018
+
+----------------
+pate 12 
+Sun May 20 09:58:22 2018
+
+----------------
+12 
+Sun May 20 09:58:22 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:23 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:25 2018
+
+----------------
+pate 12 
+Sun May 20 09:58:25 2018
+
+----------------
+12 
+Sun May 20 09:58:25 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:26 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:27 2018
+
+----------------
+pate 12 
+Sun May 20 09:58:27 2018
+
+----------------
+12 
+Sun May 20 09:58:27 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:28 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:30 2018
+
+----------------
+pate 12 
+Sun May 20 09:58:30 2018
+
+----------------
+12 
+Sun May 20 09:58:30 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:31 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 09:58:36 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:58:40 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:58:40 2018
+
+----------------
+yafet 
+Sun May 20 09:58:50 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 09:58:51 2018
+
+----------------
+1 1 2 2 3 1 4 1 0 1 0 2 2 1 5 2 5 1 6 1 7 1 8 1 9 1 
+Sun May 20 09:58:53 2018
+
+----------------
+0 1 
+Sun May 20 09:58:55 2018
+
+----------------
+1 2 2 1 
+Sun May 20 09:58:56 2018
+
+----------------
+156 
+Sun May 20 09:58:57 2018
+
+----------------
+1 2 2 1 
+Sun May 20 09:59:02 2018
+
+----------------
+0 1 
+Sun May 20 09:59:03 2018
+
+----------------
+1 1 2 2 3 1 4 1 0 1 0 2 2 1 5 2 5 1 6 1 7 1 8 1 9 1 
+Sun May 20 09:59:06 2018
+
+----------------
+0 1 
+Sun May 20 09:59:10 2018
+
+----------------
+1 2 2 1 
+Sun May 20 11:04:28 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:04:33 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:04:33 2018
+
+----------------
+yafet 
+Sun May 20 11:04:34 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:04:35 2018
+
+----------------
+Sun May 20 11:04:36 2018
+
+----------------
+Sun May 20 11:04:36 2018
+
+----------------
+Sun May 20 11:04:36 2018
+
+----------------
+Sun May 20 11:04:37 2018
+
+----------------
+0 1 
+Sun May 20 11:04:38 2018
+
+----------------
+Sun May 20 11:04:38 2018
+
+----------------
+Sun May 20 11:04:38 2018
+
+----------------
+Sun May 20 11:05:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:05:50 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:05:50 2018
+
+----------------
+yafet 
+Sun May 20 11:05:52 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:05:53 2018
+
+----------------
+Sun May 20 11:07:10 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:07:14 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:07:14 2018
+
+----------------
+yafet 
+Sun May 20 11:07:16 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:07:16 2018
+
+----------------
+Sun May 20 11:07:20 2018
+
+----------------
+0 1 
+Sun May 20 11:07:22 2018
+
+----------------
+Sun May 20 11:08:52 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:08:56 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:08:56 2018
+
+----------------
+yafet 
+Sun May 20 11:09:00 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:09:01 2018
+
+----------------
+Sun May 20 11:09:02 2018
+
+----------------
+Sun May 20 11:09:02 2018
+
+----------------
+Sun May 20 11:09:02 2018
+
+----------------
+Sun May 20 11:09:02 2018
+
+----------------
+Sun May 20 11:09:02 2018
+
+----------------
+Sun May 20 11:52:05 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:52:10 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:52:10 2018
+
+----------------
+yafet 
+Sun May 20 11:52:13 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:52:14 2018
+
+----------------
+Sun May 20 11:52:15 2018
+
+----------------
+Sun May 20 11:52:15 2018
+
+----------------
+Sun May 20 11:53:03 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:53:07 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:53:07 2018
+
+----------------
+yafet 
+Sun May 20 11:54:02 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:54:03 2018
+
+----------------
+Sun May 20 11:54:04 2018
+
+----------------
+Sun May 20 11:55:39 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:55:42 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:55:42 2018
+
+----------------
+yafet 
+Sun May 20 11:55:46 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:55:47 2018
+
+----------------
+Sun May 20 11:55:48 2018
+
+----------------
+Sun May 20 11:55:48 2018
+
+----------------
+Sun May 20 11:55:48 2018
+
+----------------
+Sun May 20 11:55:48 2018
+
+----------------
+Sun May 20 11:55:52 2018
+
+----------------
+0 1 
+Sun May 20 11:55:53 2018
+
+----------------
+1 2 2 1 
+Sun May 20 11:56:31 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:56:35 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:56:35 2018
+
+----------------
+yafet 
+Sun May 20 11:56:37 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:56:38 2018
+
+----------------
+Sun May 20 11:57:54 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:57:58 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:57:58 2018
+
+----------------
+yafet 
+Sun May 20 11:58:01 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:58:02 2018
+
+----------------
+2 
+Sun May 20 11:58:05 2018
+
+----------------
+2 
+Sun May 20 11:58:06 2018
+
+----------------
+2 
+Sun May 20 11:58:06 2018
+
+----------------
+2 
+Sun May 20 11:59:06 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:59:09 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:59:09 2018
+
+----------------
+yafet 
+Sun May 20 11:59:11 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:59:12 2018
+
+----------------
+Sun May 20 11:59:13 2018
+
+----------------
+Sun May 20 11:59:13 2018
+
+----------------
+Sun May 20 11:59:13 2018
+
+----------------
+Sun May 20 11:59:13 2018
+
+----------------
+Sun May 20 11:59:13 2018
+
+----------------
+Sun May 20 11:59:14 2018
+
+----------------
+Sun May 20 11:59:14 2018
+
+----------------
+Sun May 20 11:59:14 2018
+
+----------------
+Sun May 20 11:59:14 2018
+
+----------------
+Sun May 20 11:59:53 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:59:58 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 11:59:58 2018
+
+----------------
+yafet 
+Sun May 20 12:00:02 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:00:03 2018
+
+----------------
+Sun May 20 12:17:45 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:17:49 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:17:49 2018
+
+----------------
+yafet 
+Sun May 20 12:17:51 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:17:52 2018
+
+----------------
+1 2 1 1 1 2 1 2 1 1 1 1 1 
+Sun May 20 12:18:18 2018
+
+----------------
+0 1 
+Sun May 20 12:32:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:32:24 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:32:24 2018
+
+----------------
+yafet 
+Sun May 20 12:32:25 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:32:26 2018
+
+----------------
+Sun May 20 12:32:27 2018
+
+----------------
+Sun May 20 12:32:27 2018
+
+----------------
+Sun May 20 12:32:27 2018
+
+----------------
+Sun May 20 12:32:27 2018
+
+----------------
+Sun May 20 12:32:27 2018
+
+----------------
+Sun May 20 12:32:28 2018
+
+----------------
+Sun May 20 12:34:02 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:34:06 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:34:06 2018
+
+----------------
+yafet 
+Sun May 20 12:34:07 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:34:08 2018
+
+----------------
+Sun May 20 12:34:51 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:34:55 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:34:55 2018
+
+----------------
+yafet 
+Sun May 20 12:34:56 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:34:57 2018
+
+----------------
+1 13 
+Sun May 20 12:37:19 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:37:22 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:37:22 2018
+
+----------------
+yafet 
+Sun May 20 12:37:26 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:37:27 2018
+
+----------------
+Sun May 20 12:37:28 2018
+
+----------------
+Sun May 20 12:37:28 2018
+
+----------------
+Sun May 20 12:37:28 2018
+
+----------------
+Sun May 20 12:37:28 2018
+
+----------------
+Sun May 20 12:37:28 2018
+
+----------------
+Sun May 20 12:37:29 2018
+
+----------------
+Sun May 20 12:37:29 2018
+
+----------------
+Sun May 20 12:37:29 2018
+
+----------------
+Sun May 20 12:37:29 2018
+
+----------------
+Sun May 20 12:37:29 2018
+
+----------------
+Sun May 20 12:37:29 2018
+
+----------------
+Sun May 20 12:37:29 2018
+
+----------------
+Sun May 20 12:37:30 2018
+
+----------------
+Sun May 20 12:37:30 2018
+
+----------------
+Sun May 20 12:37:31 2018
+
+----------------
+Sun May 20 12:37:31 2018
+
+----------------
+Sun May 20 12:37:31 2018
+
+----------------
+Sun May 20 12:37:31 2018
+
+----------------
+Sun May 20 12:38:37 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:38:40 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:38:40 2018
+
+----------------
+yafet 
+Sun May 20 12:38:41 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:38:42 2018
+
+----------------
+Sun May 20 12:38:43 2018
+
+----------------
+Sun May 20 12:38:43 2018
+
+----------------
+Sun May 20 12:38:43 2018
+
+----------------
+Sun May 20 12:38:43 2018
+
+----------------
+Sun May 20 12:38:43 2018
+
+----------------
+Sun May 20 12:38:43 2018
+
+----------------
+Sun May 20 12:38:43 2018
+
+----------------
+Sun May 20 12:44:42 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:44:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:44:47 2018
+
+----------------
+yafet 
+Sun May 20 12:44:49 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:44:49 2018
+
+----------------
+Sun May 20 12:44:50 2018
+
+----------------
+Sun May 20 12:44:50 2018
+
+----------------
+Sun May 20 12:44:50 2018
+
+----------------
+Sun May 20 12:44:50 2018
+
+----------------
+Sun May 20 12:44:51 2018
+
+----------------
+Sun May 20 12:44:51 2018
+
+----------------
+Sun May 20 12:44:51 2018
+
+----------------
+Sun May 20 12:44:51 2018
+
+----------------
+Sun May 20 12:44:51 2018
+
+----------------
+Sun May 20 12:44:51 2018
+
+----------------
+Sun May 20 12:44:51 2018
+
+----------------
+Sun May 20 12:44:52 2018
+
+----------------
+Sun May 20 12:44:52 2018
+
+----------------
+Sun May 20 12:45:19 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:45:22 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:45:22 2018
+
+----------------
+yafet 
+Sun May 20 12:45:26 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:45:27 2018
+
+----------------
+13 
+Sun May 20 12:45:28 2018
+
+----------------
+13 
+Sun May 20 12:45:30 2018
+
+----------------
+0 1 
+Sun May 20 12:45:31 2018
+
+----------------
+13 
+Sun May 20 12:51:57 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:52:20 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:52:20 2018
+
+----------------
+yafet 
+Sun May 20 12:52:22 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:52:23 2018
+
+----------------
+1 13 
+Sun May 20 12:52:36 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:52:39 2018
+
+----------------
+pate couscous 
+Sun May 20 12:52:45 2018
+
+----------------
+pate couscous 
+Sun May 20 12:52:52 2018
+
+----------------
+
+Sun May 20 12:52:57 2018
+
+----------------
+2 couscous 30 12 
+Sun May 20 12:53:05 2018
+
+----------------
+1 pate 12 10 
+Sun May 20 12:53:05 2018
+
+----------------
+1 pate 12 10 
+Sun May 20 12:53:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:53:10 2018
+
+----------------
+1 13 
+Sun May 20 12:54:02 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:54:06 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:54:06 2018
+
+----------------
+yafet 
+Sun May 20 12:54:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:54:09 2018
+
+----------------
+Sun May 20 12:55:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:55:38 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:55:38 2018
+
+----------------
+yafet 
+Sun May 20 12:55:43 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:55:45 2018
+
+----------------
+Sun May 20 12:55:45 2018
+
+----------------
+Sun May 20 12:55:45 2018
+
+----------------
+Sun May 20 12:57:48 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:57:53 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:57:53 2018
+
+----------------
+yafet 
+Sun May 20 12:57:54 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:57:55 2018
+
+----------------
+Sun May 20 12:59:13 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:59:18 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:59:18 2018
+
+----------------
+yafet 
+Sun May 20 12:59:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:59:22 2018
+
+----------------
+Sun May 20 12:59:48 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:59:51 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:59:51 2018
+
+----------------
+yafet 
+Sun May 20 12:59:53 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 12:59:54 2018
+
+----------------
+Sun May 20 12:59:54 2018
+
+----------------
+Sun May 20 12:59:54 2018
+
+----------------
+Sun May 20 12:59:54 2018
+
+----------------
+Sun May 20 12:59:54 2018
+
+----------------
+Sun May 20 12:59:55 2018
+
+----------------
+Sun May 20 12:59:55 2018
+
+----------------
+Sun May 20 12:59:55 2018
+
+----------------
+Sun May 20 12:59:55 2018
+
+----------------
+Sun May 20 12:59:55 2018
+
+----------------
+Sun May 20 12:59:55 2018
+
+----------------
+Sun May 20 12:59:55 2018
+
+----------------
+Sun May 20 12:59:55 2018
+
+----------------
+Sun May 20 12:59:56 2018
+
+----------------
+Sun May 20 12:59:56 2018
+
+----------------
+Sun May 20 12:59:56 2018
+
+----------------
+Sun May 20 12:59:56 2018
+
+----------------
+Sun May 20 12:59:56 2018
+
+----------------
+Sun May 20 12:59:56 2018
+
+----------------
+Sun May 20 13:00:25 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:00:29 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:00:29 2018
+
+----------------
+yafet 
+Sun May 20 13:00:31 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:00:32 2018
+
+----------------
+Sun May 20 13:00:32 2018
+
+----------------
+Sun May 20 13:03:23 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:03:27 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:03:27 2018
+
+----------------
+yafet 
+Sun May 20 13:03:29 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:03:30 2018
+
+----------------
+1 pate 12 10 
+Sun May 20 13:03:30 2018
+
+----------------
+1 pate 12 10 
+Sun May 20 13:11:31 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:11:35 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:11:35 2018
+
+----------------
+yafet 
+Sun May 20 13:11:39 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:11:40 2018
+
+----------------
+Sun May 20 13:11:40 2018
+
+----------------
+Sun May 20 13:11:40 2018
+
+----------------
+Sun May 20 13:11:40 2018
+
+----------------
+Sun May 20 13:16:11 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:16:14 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:16:14 2018
+
+----------------
+yafet 
+Sun May 20 13:16:15 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:16:16 2018
+
+----------------
+Sun May 20 13:17:57 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:18:01 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:18:01 2018
+
+----------------
+yafet 
+Sun May 20 13:18:02 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:18:04 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:18:05 2018
+
+----------------
+Sun May 20 13:19:07 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:19:11 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:19:11 2018
+
+----------------
+yafet 
+Sun May 20 13:19:12 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:19:13 2018
+
+----------------
+Sun May 20 13:19:14 2018
+
+----------------
+Sun May 20 13:19:14 2018
+
+----------------
+Sun May 20 13:19:14 2018
+
+----------------
+Sun May 20 13:19:15 2018
+
+----------------
+0 1 
+Sun May 20 13:24:39 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:24:43 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:24:43 2018
+
+----------------
+yafet 
+Sun May 20 13:24:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:24:49 2018
+
+----------------
+Sun May 20 13:25:48 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:25:51 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:25:51 2018
+
+----------------
+yafet 
+Sun May 20 13:25:53 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:25:54 2018
+
+----------------
+Sun May 20 13:29:03 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:29:09 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:29:09 2018
+
+----------------
+yafet 
+Sun May 20 13:29:14 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:29:15 2018
+
+----------------
+13 
+Sun May 20 13:30:07 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:30:11 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:30:11 2018
+
+----------------
+yafet 
+Sun May 20 13:30:13 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:30:14 2018
+
+----------------
+1 13 
+Sun May 20 13:30:16 2018
+
+----------------
+1 13 
+Sun May 20 13:30:48 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:30:55 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:30:55 2018
+
+----------------
+yafet 
+Sun May 20 13:30:58 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:30:59 2018
+
+----------------
+1 2 1 1 1 2 1 2 1 1 1 1 1 
+Sun May 20 13:31:51 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:31:53 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:31:53 2018
+
+----------------
+yafet 
+Sun May 20 13:31:55 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:31:56 2018
+
+----------------
+Sun May 20 13:32:50 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:32:54 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:32:54 2018
+
+----------------
+yafet 
+Sun May 20 13:32:57 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:32:58 2018
+
+----------------
+1 2 1 1 1 2 1 2 1 1 1 1 1 
+Sun May 20 13:34:11 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:34:14 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:34:14 2018
+
+----------------
+yafet 
+Sun May 20 13:34:16 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:34:17 2018
+
+----------------
+10 3 
+Sun May 20 13:36:05 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:36:10 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:36:10 2018
+
+----------------
+yafet 
+Sun May 20 13:36:11 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:36:12 2018
+
+----------------
+1 10 2 3 
+Sun May 20 13:37:25 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:37:29 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:37:29 2018
+
+----------------
+yafet 
+Sun May 20 13:37:33 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:37:35 2018
+
+----------------
+Sun May 20 13:37:36 2018
+
+----------------
+Sun May 20 13:37:36 2018
+
+----------------
+Sun May 20 13:53:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:53:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:53:47 2018
+
+----------------
+yafet 
+Sun May 20 13:53:51 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:53:51 2018
+
+----------------
+yafet 
+Sun May 20 13:53:53 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:53:54 2018
+
+----------------
+Sun May 20 13:54:49 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:54:52 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:54:52 2018
+
+----------------
+yafet 
+Sun May 20 13:54:55 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 13:54:56 2018
+
+----------------
+Sun May 20 14:29:57 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:30:04 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:30:04 2018
+
+----------------
+yafet 
+Sun May 20 14:30:06 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:30:07 2018
+
+----------------
+Sun May 20 14:30:39 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:30:51 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:30:51 2018
+
+----------------
+yafet 
+Sun May 20 14:30:55 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:30:56 2018
+
+----------------
+Sun May 20 14:31:40 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:31:45 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:31:45 2018
+
+----------------
+yafet 
+Sun May 20 14:31:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:31:48 2018
+
+----------------
+1 13 
+Sun May 20 14:39:04 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:39:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:39:08 2018
+
+----------------
+yafet 
+Sun May 20 14:39:10 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:39:11 2018
+
+----------------
+pate couscous 
+Sun May 20 14:44:00 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:44:05 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:44:05 2018
+
+----------------
+yafet 
+Sun May 20 14:44:06 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:44:07 2018
+
+----------------
+Sun May 20 14:44:08 2018
+
+----------------
+Sun May 20 14:44:08 2018
+
+----------------
+Sun May 20 14:44:08 2018
+
+----------------
+Sun May 20 14:44:09 2018
+
+----------------
+Sun May 20 14:44:09 2018
+
+----------------
+Sun May 20 14:44:09 2018
+
+----------------
+0 1 
+Sun May 20 14:44:10 2018
+
+----------------
+Sun May 20 14:44:10 2018
+
+----------------
+Sun May 20 14:44:10 2018
+
+----------------
+Sun May 20 14:44:11 2018
+
+----------------
+Sun May 20 14:44:11 2018
+
+----------------
+Sun May 20 14:46:20 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:46:25 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:46:25 2018
+
+----------------
+yafet 
+Sun May 20 14:46:27 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:46:28 2018
+
+----------------
+Sun May 20 14:47:42 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:47:46 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:47:46 2018
+
+----------------
+yafet 
+Sun May 20 14:47:50 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:47:52 2018
+
+----------------
+Sun May 20 14:51:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:51:34 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:51:34 2018
+
+----------------
+yafet 
+Sun May 20 14:51:37 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:51:38 2018
+
+----------------
+pate couscous 
+Sun May 20 14:53:26 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:53:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:53:30 2018
+
+----------------
+yafet 
+Sun May 20 14:53:32 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 14:53:33 2018
+
+----------------
+pate 
+Sun May 20 15:02:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:02:36 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:02:36 2018
+
+----------------
+yafet 
+Sun May 20 15:02:41 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:02:42 2018
+
+----------------
+pate 
+Sun May 20 15:02:43 2018
+
+----------------
+salade 
+Sun May 20 15:02:44 2018
+
+----------------
+bbb 
+Sun May 20 15:03:35 2018
+
+----------------
+156 
+Sun May 20 15:04:22 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:04:25 2018
+
+----------------
+bbb op 
+Sun May 20 15:04:34 2018
+
+----------------
+
+Sun May 20 15:04:35 2018
+
+----------------
+op 
+Sun May 20 15:04:40 2018
+
+----------------
+
+Sun May 20 15:04:42 2018
+
+----------------
+
+Sun May 20 15:04:53 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:04:53 2018
+
+----------------
+3 boisson1.5 1.5 1 
+Sun May 20 15:05:27 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:05:30 2018
+
+----------------
+
+Sun May 20 15:05:30 2018
+
+----------------
+
+Sun May 20 15:05:36 2018
+
+----------------
+3 boisson1.5 1.5 1 
+Sun May 20 15:07:12 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:07:12 2018
+
+----------------
+4 gateau 1.2 1 
+Sun May 20 15:07:18 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:07:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:07:21 2018
+
+----------------
+yafet 
+Sun May 20 15:07:26 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:07:41 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:07:41 2018
+
+----------------
+5 boisson0.5 0.9 0.6 
+Sun May 20 15:16:14 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:16:22 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:16:22 2018
+
+----------------
+paolo 
+Sun May 20 15:16:23 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:16:23 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:16:23 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:16:24 2018
+
+----------------
+salade 
+Sun May 20 15:16:24 2018
+
+----------------
+salade2 
+Sun May 20 15:16:24 2018
+
+----------------
+
+Sun May 20 15:16:24 2018
+
+----------------
+
+Sun May 20 15:16:27 2018
+
+----------------
+
+Sun May 20 15:16:27 2018
+
+----------------
+
+Sun May 20 15:16:27 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:16:27 2018
+
+----------------
+gateau 
+Sun May 20 15:16:27 2018
+
+----------------
+boisson0.5 
+Sun May 20 15:16:29 2018
+
+----------------
+pate 
+Sun May 20 15:16:29 2018
+
+----------------
+couscous 
+Sun May 20 15:16:29 2018
+
+----------------
+
+Sun May 20 15:16:29 2018
+
+----------------
+
+Sun May 20 15:16:29 2018
+
+----------------
+
+Sun May 20 15:16:32 2018
+
+----------------
+salade 
+Sun May 20 15:16:32 2018
+
+----------------
+salade2 
+Sun May 20 15:16:32 2018
+
+----------------
+
+Sun May 20 15:16:32 2018
+
+----------------
+
+Sun May 20 15:16:37 2018
+
+----------------
+1 
+Sun May 20 15:16:42 2018
+
+----------------
+boisson1.5 1.5 
+Sun May 20 15:16:42 2018
+
+----------------
+1.5 
+Sun May 20 15:16:42 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:16:43 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:16:44 2018
+
+----------------
+boisson1.5 1.5 
+Sun May 20 15:16:44 2018
+
+----------------
+1.5 
+Sun May 20 15:16:44 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:16:46 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:16:47 2018
+
+----------------
+boisson1.5 1.5 
+Sun May 20 15:16:47 2018
+
+----------------
+1.5 
+Sun May 20 15:16:47 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:16:48 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:16:50 2018
+
+----------------
+boisson0.5 0.9 
+Sun May 20 15:16:50 2018
+
+----------------
+0.9 
+Sun May 20 15:16:50 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:16:51 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:16:52 2018
+
+----------------
+gateau 1.2 
+Sun May 20 15:16:52 2018
+
+----------------
+1.2 
+Sun May 20 15:16:52 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:16:53 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:16:54 2018
+
+----------------
+boisson1.5 1.5 
+Sun May 20 15:16:54 2018
+
+----------------
+1.5 
+Sun May 20 15:16:54 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:16:56 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:16:57 2018
+
+----------------
+boisson1.5 1.5 
+Sun May 20 15:16:57 2018
+
+----------------
+1.5 
+Sun May 20 15:16:57 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:16:58 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:17:02 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:17:07 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:17:07 2018
+
+----------------
+yafet 
+Sun May 20 15:17:11 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:17:13 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:17:19 2018
+
+----------------
+pate 
+Sun May 20 15:17:21 2018
+
+----------------
+salade 
+Sun May 20 15:20:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:20:11 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:20:11 2018
+
+----------------
+yafet 
+Sun May 20 15:20:18 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:20:20 2018
+
+----------------
+salade salade2 
+Sun May 20 15:20:23 2018
+
+----------------
+pate couscous 
+Sun May 20 15:20:26 2018
+
+----------------
+boisson1.5 gateau boisson0.5 
+Sun May 20 15:22:12 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:22:12 2018
+
+----------------
+6 jus  2 1 
+Sun May 20 15:22:21 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:22:28 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:22:28 2018
+
+----------------
+paolo 
+Sun May 20 15:22:29 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:22:29 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:22:29 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:22:32 2018
+
+----------------
+1 
+Sun May 20 15:22:35 2018
+
+----------------
+
+Sun May 20 15:22:35 2018
+
+----------------
+
+Sun May 20 15:22:35 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:22:35 2018
+
+----------------
+gateau 
+Sun May 20 15:22:35 2018
+
+----------------
+boisson0.5 
+Sun May 20 15:22:36 2018
+
+----------------
+
+Sun May 20 15:22:36 2018
+
+----------------
+
+Sun May 20 15:22:36 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:22:36 2018
+
+----------------
+gateau 
+Sun May 20 15:22:36 2018
+
+----------------
+boisson0.5 
+Sun May 20 15:22:38 2018
+
+----------------
+
+Sun May 20 15:22:38 2018
+
+----------------
+
+Sun May 20 15:22:38 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:22:38 2018
+
+----------------
+gateau 
+Sun May 20 15:22:38 2018
+
+----------------
+boisson0.5 
+Sun May 20 15:22:38 2018
+
+----------------
+
+Sun May 20 15:22:38 2018
+
+----------------
+
+Sun May 20 15:22:38 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:22:38 2018
+
+----------------
+gateau 
+Sun May 20 15:22:38 2018
+
+----------------
+boisson0.5 
+Sun May 20 15:22:39 2018
+
+----------------
+
+Sun May 20 15:22:39 2018
+
+----------------
+
+Sun May 20 15:22:39 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:22:39 2018
+
+----------------
+gateau 
+Sun May 20 15:22:39 2018
+
+----------------
+boisson0.5 
+Sun May 20 15:22:42 2018
+
+----------------
+pate 
+Sun May 20 15:22:42 2018
+
+----------------
+couscous 
+Sun May 20 15:22:42 2018
+
+----------------
+
+Sun May 20 15:22:42 2018
+
+----------------
+
+Sun May 20 15:22:42 2018
+
+----------------
+
+Sun May 20 15:22:44 2018
+
+----------------
+salade 
+Sun May 20 15:22:44 2018
+
+----------------
+salade2 
+Sun May 20 15:22:44 2018
+
+----------------
+
+Sun May 20 15:22:44 2018
+
+----------------
+
+Sun May 20 15:24:50 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:24:54 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:24:54 2018
+
+----------------
+yafet 
+Sun May 20 15:25:45 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:25:48 2018
+
+----------------
+pate 
+Sun May 20 15:25:48 2018
+
+----------------
+salade 
+Sun May 20 15:25:49 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:25:51 2018
+
+----------------
+156 
+Sun May 20 15:26:01 2018
+
+----------------
+156 
+Sun May 20 15:26:06 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:26:16 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:26:16 2018
+
+----------------
+paolo 
+Sun May 20 15:26:16 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:26:17 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:26:17 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:26:20 2018
+
+----------------
+pate 
+Sun May 20 15:26:20 2018
+
+----------------
+couscous 
+Sun May 20 15:26:20 2018
+
+----------------
+
+Sun May 20 15:26:20 2018
+
+----------------
+
+Sun May 20 15:26:20 2018
+
+----------------
+
+Sun May 20 15:26:21 2018
+
+----------------
+pate 12 
+Sun May 20 15:26:21 2018
+
+----------------
+12 
+Sun May 20 15:26:21 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 15:26:26 2018
+
+----------------
+1 
+Sun May 20 15:26:28 2018
+
+----------------
+pate 12 
+Sun May 20 15:26:28 2018
+
+----------------
+12 
+Sun May 20 15:26:28 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 15:26:32 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:26:34 2018
+
+----------------
+couscous 30 
+Sun May 20 15:26:34 2018
+
+----------------
+30 
+Sun May 20 15:26:34 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:26:36 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:26:41 2018
+
+----------------
+
+Sun May 20 15:26:41 2018
+
+----------------
+
+Sun May 20 15:26:41 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDd are not unique
+Sun May 20 15:26:42 2018
+
+----------------
+
+Sun May 20 15:26:42 2018
+
+----------------
+
+Sun May 20 15:26:42 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:26:42 2018
+
+----------------
+gateau 
+Sun May 20 15:26:42 2018
+
+----------------
+boisson0.5 
+Sun May 20 15:26:43 2018
+
+----------------
+boisson1.5 1.5 
+Sun May 20 15:26:43 2018
+
+----------------
+1.5 
+Sun May 20 15:26:43 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDd are not unique
+Sun May 20 15:26:50 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:27:03 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:27:06 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:27:06 2018
+
+----------------
+yafet 
+Sun May 20 15:27:09 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:27:10 2018
+
+----------------
+156 
+Sun May 20 15:27:11 2018
+
+----------------
+156 
+Sun May 20 15:27:11 2018
+
+----------------
+156 
+Sun May 20 15:27:11 2018
+
+----------------
+156 
+Sun May 20 15:27:12 2018
+
+----------------
+156 
+Sun May 20 15:27:12 2018
+
+----------------
+156 
+Sun May 20 15:27:59 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:28:02 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:28:02 2018
+
+----------------
+yafet 
+Sun May 20 15:28:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:28:09 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:09 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:09 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:10 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:11 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:11 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:11 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:11 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:20 2018
+
+----------------
+Sun May 20 15:28:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:28:33 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:28:33 2018
+
+----------------
+yafet 
+Sun May 20 15:28:37 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:28:48 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:28:48 2018
+
+----------------
+1 paolo paolo 1200 0 
+Sun May 20 15:28:51 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:29:03 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:29:04 2018
+
+----------------
+1 pate 12 10 
+Sun May 20 15:29:21 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:29:21 2018
+
+----------------
+1 boisson1.5 0.9 0.6 
+Sun May 20 15:29:38 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:29:38 2018
+
+----------------
+2 gateau 7 6 
+Sun May 20 15:30:01 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:30:01 2018
+
+----------------
+1 salade 2 1 
+Sun May 20 15:30:21 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:30:21 2018
+
+----------------
+2 salade tunisienne 1.2 1 
+Sun May 20 15:30:34 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:30:34 2018
+
+----------------
+2 couscous 15 10 
+Sun May 20 15:31:07 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:07 2018
+
+----------------
+3 chakchouka 7.5 6 
+Sun May 20 15:31:18 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:31:27 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:31:27 2018
+
+----------------
+paolo 
+Sun May 20 15:31:27 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:27 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:28 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:31:33 2018
+
+----------------
+1 
+Sun May 20 15:31:36 2018
+
+----------------
+salade 
+Sun May 20 15:31:36 2018
+
+----------------
+salade tunisienne 
+Sun May 20 15:31:36 2018
+
+----------------
+
+Sun May 20 15:31:36 2018
+
+----------------
+
+Sun May 20 15:31:38 2018
+
+----------------
+pate 
+Sun May 20 15:31:38 2018
+
+----------------
+couscous 
+Sun May 20 15:31:38 2018
+
+----------------
+chakchouka 
+Sun May 20 15:31:38 2018
+
+----------------
+
+Sun May 20 15:31:38 2018
+
+----------------
+
+Sun May 20 15:31:40 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:31:40 2018
+
+----------------
+gateau 
+Sun May 20 15:31:40 2018
+
+----------------
+
+Sun May 20 15:31:40 2018
+
+----------------
+
+Sun May 20 15:31:40 2018
+
+----------------
+
+Sun May 20 15:31:43 2018
+
+----------------
+boisson1.5 0.9 
+Sun May 20 15:31:43 2018
+
+----------------
+0.9 
+Sun May 20 15:31:43 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:45 2018
+
+----------------
+pate 12 
+Sun May 20 15:31:45 2018
+
+----------------
+12 
+Sun May 20 15:31:45 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:46 2018
+
+----------------
+pate 12 
+Sun May 20 15:31:46 2018
+
+----------------
+12 
+Sun May 20 15:31:46 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 15:31:48 2018
+
+----------------
+salade tunisienne 1.2 
+Sun May 20 15:31:48 2018
+
+----------------
+1.2 
+Sun May 20 15:31:48 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:50 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:54 2018
+
+----------------
+salade 2 
+Sun May 20 15:31:54 2018
+
+----------------
+2 
+Sun May 20 15:31:54 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:55 2018
+
+----------------
+pate 12 
+Sun May 20 15:31:55 2018
+
+----------------
+12 
+Sun May 20 15:31:55 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:56 2018
+
+----------------
+couscous 15 
+Sun May 20 15:31:56 2018
+
+----------------
+15 
+Sun May 20 15:31:56 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:31:58 2018
+
+----------------
+salade 2 
+Sun May 20 15:31:58 2018
+
+----------------
+2 
+Sun May 20 15:31:58 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDe are not unique
+Sun May 20 15:32:00 2018
+
+----------------
+gateau 7 
+Sun May 20 15:32:00 2018
+
+----------------
+7 
+Sun May 20 15:32:00 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:03 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:08 2018
+
+----------------
+salade 2 
+Sun May 20 15:32:08 2018
+
+----------------
+2 
+Sun May 20 15:32:08 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:11 2018
+
+----------------
+gateau 7 
+Sun May 20 15:32:11 2018
+
+----------------
+7 
+Sun May 20 15:32:11 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:12 2018
+
+----------------
+pate 12 
+Sun May 20 15:32:12 2018
+
+----------------
+12 
+Sun May 20 15:32:12 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:15 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:21 2018
+
+----------------
+chakchouka 7.5 
+Sun May 20 15:32:21 2018
+
+----------------
+7.5 
+Sun May 20 15:32:21 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:24 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:25 2018
+
+----------------
+chakchouka 7.5 
+Sun May 20 15:32:25 2018
+
+----------------
+7.5 
+Sun May 20 15:32:25 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:28 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:29 2018
+
+----------------
+chakchouka 7.5 
+Sun May 20 15:32:29 2018
+
+----------------
+7.5 
+Sun May 20 15:32:29 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:32 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:33 2018
+
+----------------
+couscous 15 
+Sun May 20 15:32:33 2018
+
+----------------
+15 
+Sun May 20 15:32:33 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:35 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:37 2018
+
+----------------
+chakchouka 7.5 
+Sun May 20 15:32:37 2018
+
+----------------
+7.5 
+Sun May 20 15:32:37 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:39 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:40 2018
+
+----------------
+chakchouka 7.5 
+Sun May 20 15:32:40 2018
+
+----------------
+7.5 
+Sun May 20 15:32:40 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:42 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:43 2018
+
+----------------
+chakchouka 7.5 
+Sun May 20 15:32:43 2018
+
+----------------
+7.5 
+Sun May 20 15:32:43 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:44 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:32:50 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:32:53 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:32:53 2018
+
+----------------
+yafet 
+Sun May 20 15:32:57 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:33:00 2018
+
+----------------
+145.1 
+Sun May 20 15:33:03 2018
+
+----------------
+pate 
+Sun May 20 15:33:04 2018
+
+----------------
+salade 
+Sun May 20 15:33:05 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:33:06 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:33:06 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:33:07 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:33:07 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:33:07 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:33:11 2018
+
+----------------
+salade 
+Sun May 20 15:33:12 2018
+
+----------------
+pate 
+Sun May 20 15:33:16 2018
+
+----------------
+pate 
+Sun May 20 15:33:21 2018
+
+----------------
+145.1 
+Sun May 20 15:33:52 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:33:57 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:33:57 2018
+
+----------------
+paolo 
+Sun May 20 15:33:58 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:33:59 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:33:59 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:34:02 2018
+
+----------------
+pate 
+Sun May 20 15:34:02 2018
+
+----------------
+couscous 
+Sun May 20 15:34:02 2018
+
+----------------
+chakchouka 
+Sun May 20 15:34:02 2018
+
+----------------
+
+Sun May 20 15:34:02 2018
+
+----------------
+
+Sun May 20 15:34:03 2018
+
+----------------
+1 
+Sun May 20 15:34:05 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:34:05 2018
+
+----------------
+gateau 
+Sun May 20 15:34:05 2018
+
+----------------
+
+Sun May 20 15:34:05 2018
+
+----------------
+
+Sun May 20 15:34:05 2018
+
+----------------
+
+Sun May 20 15:34:08 2018
+
+----------------
+1 
+Sun May 20 15:34:39 2018
+
+----------------
+pate 12 
+Sun May 20 15:34:39 2018
+
+----------------
+12 
+Sun May 20 15:34:39 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDp are not unique
+Sun May 20 15:34:41 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:34:43 2018
+
+----------------
+gateau 7 
+Sun May 20 15:34:43 2018
+
+----------------
+7 
+Sun May 20 15:34:43 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDd are not unique
+Sun May 20 15:34:45 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:34:46 2018
+
+----------------
+gateau 7 
+Sun May 20 15:34:46 2018
+
+----------------
+7 
+Sun May 20 15:34:46 2018
+
+----------------
+base ouvert 
+SQL error: columns IDa, IDd are not unique
+Sun May 20 15:34:47 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:34:48 2018
+
+----------------
+gateau 7 
+Sun May 20 15:34:48 2018
+
+----------------
+7 
+Sun May 20 15:34:48 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:34:49 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:34:50 2018
+
+----------------
+gateau 7 
+Sun May 20 15:34:50 2018
+
+----------------
+7 
+Sun May 20 15:34:50 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:34:52 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:34:53 2018
+
+----------------
+gateau 7 
+Sun May 20 15:34:53 2018
+
+----------------
+7 
+Sun May 20 15:34:53 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:34:55 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:35:01 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:35:07 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:35:10 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:35:10 2018
+
+----------------
+yafet 
+Sun May 20 15:35:15 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:35:16 2018
+
+----------------
+145.1 
+Sun May 20 15:35:18 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:19 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:19 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:19 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:20 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:20 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:20 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:20 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:20 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:24 2018
+
+----------------
+salade 
+Sun May 20 15:35:26 2018
+
+----------------
+pate 
+Sun May 20 15:35:27 2018
+
+----------------
+salade 
+Sun May 20 15:35:27 2018
+
+----------------
+salade 
+Sun May 20 15:35:28 2018
+
+----------------
+salade 
+Sun May 20 15:35:29 2018
+
+----------------
+pate 
+Sun May 20 15:35:30 2018
+
+----------------
+145.1 
+Sun May 20 15:35:31 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:35:32 2018
+
+----------------
+145.1 
+Sun May 20 15:37:30 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:37:35 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:37:38 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:37:38 2018
+
+----------------
+yafet 
+Sun May 20 15:37:40 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:37:41 2018
+
+----------------
+pate 
+Sun May 20 15:37:42 2018
+
+----------------
+salade 
+Sun May 20 15:37:43 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:37:44 2018
+
+----------------
+145.1 
+Sun May 20 15:49:59 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:50:08 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:50:08 2018
+
+----------------
+paolo 
+Sun May 20 15:50:09 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:50:09 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:50:09 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:50:15 2018
+
+----------------
+1 
+Sun May 20 15:50:19 2018
+
+----------------
+pate 
+Sun May 20 15:50:19 2018
+
+----------------
+couscous 
+Sun May 20 15:50:19 2018
+
+----------------
+chakchouka 
+Sun May 20 15:50:19 2018
+
+----------------
+
+Sun May 20 15:50:19 2018
+
+----------------
+
+Sun May 20 15:50:21 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:50:21 2018
+
+----------------
+gateau 
+Sun May 20 15:50:21 2018
+
+----------------
+
+Sun May 20 15:50:21 2018
+
+----------------
+
+Sun May 20 15:50:21 2018
+
+----------------
+
+Sun May 20 15:50:22 2018
+
+----------------
+salade 
+Sun May 20 15:50:22 2018
+
+----------------
+salade tunisienne 
+Sun May 20 15:50:22 2018
+
+----------------
+
+Sun May 20 15:50:22 2018
+
+----------------
+
+Sun May 20 15:50:24 2018
+
+----------------
+chakchouka 7.5 
+Sun May 20 15:50:24 2018
+
+----------------
+7.5 
+Sun May 20 15:50:24 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:50:26 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:50:28 2018
+
+----------------
+chakchouka 7.5 
+Sun May 20 15:50:28 2018
+
+----------------
+7.5 
+Sun May 20 15:50:28 2018
+
+----------------
+base ouvert 
+Table created successfully
+Sun May 20 15:50:29 2018
+
+----------------
+base ouvert 
+SQL error: PRIMARY KEY must be unique
+Sun May 20 15:50:38 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:50:45 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:50:45 2018
+
+----------------
+yafet 
+Sun May 20 15:50:47 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:50:48 2018
+
+----------------
+145.1 
+Sun May 20 15:50:49 2018
+
+----------------
+145.1 
+Sun May 20 15:50:49 2018
+
+----------------
+pate 
+Sun May 20 15:50:50 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:50:51 2018
+
+----------------
+salade 
+Sun May 20 15:50:52 2018
+
+----------------
+salade 
+Sun May 20 15:50:52 2018
+
+----------------
+salade 
+Sun May 20 15:50:53 2018
+
+----------------
+salade 
+Sun May 20 15:50:53 2018
+
+----------------
+salade 
+Sun May 20 15:50:53 2018
+
+----------------
+salade 
+Sun May 20 15:50:54 2018
+
+----------------
+pate 
+Sun May 20 15:52:20 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:52:23 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:52:23 2018
+
+----------------
+yafet 
+Sun May 20 15:52:27 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:52:28 2018
+
+----------------
+salade 
+Sun May 20 15:52:29 2018
+
+----------------
+pate couscous chakchouka 
+Sun May 20 15:52:42 2018
+
+----------------
+145.1 
+Sun May 20 15:52:43 2018
+
+----------------
+pate couscous chakchouka 
+Sun May 20 15:53:07 2018
+
+----------------
+boisson1.5 
+Sun May 20 15:53:38 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:53:44 2018
+
+----------------
+base bien cree: yafet2
+Sun May 20 15:53:44 2018
+
+----------------
+yafet 
+Sun May 20 15:53:46 2018
+
+----------------
+base bien cree: yafet2
+Thu May 24 21:39:51 2018
+
+----------------
+base bien cree: yafet2
+Thu May 24 21:39:55 2018
+
+----------------
+base bien cree: yafet2
+Thu May 24 21:39:55 2018
+
+----------------
+yafet 
+Thu May 24 21:39:57 2018
+
+----------------
+base bien cree: yafet2
+Thu May 24 21:40:12 2018
+
+----------------
+base ouvert 
+Table created successfully
+Thu May 24 21:40:12 2018
+
+----------------
+2 faisel faisel 1200 0 
+Thu May 24 21:40:22 2018
+
+----------------
+2 faisel faisel 1200 0 

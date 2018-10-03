@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxFrame" name="admins">
+		<size>405,450</size>
+		<bg>wxSYS_COLOUR_WINDOW</bg>
+		<minsize>405,450</minsize>
+		<maxsize>405,450</maxsize>
+		<pos_arg>1</pos_arg>
+		<size_arg>1</size_arg>
+		<object class="wxButton" name="ID_BUTTON1" variable="btn_reset" member="yes">
+			<label>reset base</label>
+			<pos>40,384</pos>
+			<size>144,48</size>
+			<handler function="Onbtn_resetClick" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxButton" name="ID_BUTTON2" variable="Button1" member="yes">
+			<label>revenu de  jours</label>
+			<pos>40,96</pos>
+			<size>120,23</size>
+			<handler function="OnButton2Click" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL1" variable="txt_aff" member="yes">
+			<pos>216,88</pos>
+			<size>176,152</size>
+			<style>wxTE_AUTO_SCROLL|wxTE_PROCESS_TAB</style>
+		</object>
+		<object class="wxButton" name="ID_BUTTON3" variable="btn_m_plat" member="yes">
+			<label>meilleur plats</label>
+			<pos>40,136</pos>
+			<size>120,23</size>
+			<handler function="Onbtn_m_platClick" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxButton" name="ID_BUTTON4" variable="btn_m_entrre" member="yes">
+			<label>meilleur entree</label>
+			<pos>40,176</pos>
+			<size>120,23</size>
+			<handler function="Onbtn_m_entrreClick" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxButton" name="ID_BUTTON5" variable="btn_m_dessert" member="yes">
+			<label>meilleur dessert</label>
+			<pos>40,216</pos>
+			<size>120,23</size>
+			<handler function="Onbtn_m_dessertClick" entry="EVT_BUTTON" />
+		</object>
+	</object>
+</wxsmith>

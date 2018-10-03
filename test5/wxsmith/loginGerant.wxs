@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxFrame" name="loginGerant">
+		<centered>1</centered>
+		<size>589,450</size>
+		<focused>1</focused>
+		<bg>wxSYS_COLOUR_WINDOW</bg>
+		<minsize>589,450</minsize>
+		<maxsize>589,450</maxsize>
+		<pos_arg>1</pos_arg>
+		<size_arg>1</size_arg>
+		<style>wxDEFAULT_FRAME_STYLE|wxRESIZE_BORDER</style>
+		<handler function="OnClose" entry="EVT_CLOSE" />
+		<object class="wxButton" name="ID_BUTTON1" variable="btn_ok" member="yes">
+			<label>ok</label>
+			<pos>176,224</pos>
+			<size>112,64</size>
+			<bg>#FF8040</bg>
+			<handler function="Onbtn_okClick" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxButton" name="ID_BUTTON2" variable="btn_reset" member="yes">
+			<label>reset</label>
+			<pos>336,224</pos>
+			<size>112,64</size>
+			<handler function="Onbtn_resetClick1" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL1" variable="txt_password" member="yes">
+			<pos>176,136</pos>
+			<size>272,32</size>
+			<style>wxTE_PASSWORD</style>
+			<handler function="Ontxt_passwordText" entry="EVT_TEXT" />
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT1" variable="StaticText1" member="yes">
+			<label>saisir votre mot de passe</label>
+			<pos>200,80</pos>
+			<size>256,24</size>
+			<fg>#FF8040</fg>
+			<font>
+				<size>20</size>
+				<style>normal</style>
+				<weight>bold</weight>
+				<underlined>0</underlined>
+				<family>swiss</family>
+				<face>French Script MT</face>
+			</font>
+			<style>wxALIGN_CENTRE</style>
+		</object>
+	</object>
+</wxsmith>
